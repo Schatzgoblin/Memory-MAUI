@@ -1,0 +1,70 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Memory
+build_property.ProjectDir = C:\Users\Max\OneDrive\Sync\MAUI\Memory2\Memory\
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/Shared/MainLayout.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.Shared.MainLayout.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\MainLayout.razor.css
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/Shared/NavMenu.razor.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.Shared.NavMenu.razor.css
+build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor.css
+build_metadata.AdditionalFiles.RelativePath = Shared\NavMenu.razor.css
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/wwwroot/css/app.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.wwwroot.css.app.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\app.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\app.css
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/wwwroot/css/bootstrap/bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.wwwroot.css.bootstrap.bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\bootstrap\bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\bootstrap\bootstrap.min.css
+
+[C:/Users/Max/OneDrive/Sync/MAUI/Memory2/Memory/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = Memory.wwwroot.css.open_iconic.font.css.open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
